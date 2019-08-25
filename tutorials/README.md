@@ -1,8 +1,10 @@
-# **INTRO TO DIGITAL MEDIA ART**
+# **ADVANCED PROJECTS IN DIGITAL MEDIA ART**
 
-|  Art 74 Spring 2019  | Course Information  | Course Content | Course Resources |
+|  Art 107 FALL 2019  | Course Information  | Course Content | Course Resources |
 | -------------------------- |
-| **Instructor:** Carrie Hott <br> **Office Location:** Art 311 <br> **Office Hours:** Mondays 1:30-3pm, or by appt <br> **Email:** carolyn.hott@sjsu.edu <br> | [Description](https://carriehott.github.io/SJSU-Art74-Sp2019/#course-description) <br>  [Schedule](https://carriehott.github.io/SJSU-Art74-Sp2019/schedule) <br> [Assignments](https://carriehott.github.io/SJSU-Art74-Sp2019/assignments)<br>  [Expectations](https://carriehott.github.io/SJSU-Art74-Sp2019/#course-expectations) <br>[Grading](https://carriehott.github.io/SJSU-Art74-Sp2019/grading)<br>| [Critiques](https://carriehott.github.io/SJSU-Art74-Sp2019/critiques)<br> [Lectures](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures)<br> [Readings](https://carriehott.github.io/SJSU-Art74-Sp2019/readings) <br> [Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)| [Equipment](https://carriehott.github.io/SJSU-Art74-Sp2019/setup)<br> [Software](https://carriehott.github.io/SJSU-Art74-Sp2019/programs) <br> [Resources](https://carriehott.github.io/SJSU-Art74-Sp2019/resources) <br>|
+| **Instructor:** Carrie Hott <br> **Office Location:** Art 311 <br> **Office Hours:** Mondays 11:00am-12:00pm, or by appt <br> **Email:** carolyn.hott@sjsu.edu <br> | [Description](https://carriehott.github.io/sjsu-art107/#course-description) <br>  [Schedule](https://carriehott.github.io/sjsu-art107/schedule) <br> [Assignments](https://carriehott.github.io/sjsu-art107/assignments)<br>  [Expectations](https://carriehott.github.io/sjsu-art107/#course-expectations) <br>[Grading](https://carriehott.github.io/sjsu-art107/grading)<br>| [Gallery](https://carriehott.github.io/sjsu-art107/critiques)<br> [Lectures](https://carriehott.github.io/sjsu-art107/lectures)<br> [Readings](https://carriehott.github.io/sjsu-art107/readings) <br> [Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)| [Software](https://carriehott.github.io/sjsu-art107/programs) <br> [Resources](https://carriehott.github.io/sjsu-art107/resources) <br>|
+
+
 
 ![DIGITAL MEDIA ART](gradient_1.jpg)
 
@@ -23,3 +25,6 @@ This tutorial page is updated as tutorials are given to help remind students as 
 | **Net Art** | [Set Up Group GitHub Repository](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Github_Atom_Setup/#create-a-collaborative-repository)<br> [Net Art Tips and Tricks](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/HTML_CSS/#tips-and-tricks-and-bells-and-whistles) |
 | **Portfolio Website** | [Content Preparation](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Content)<br>[Website Setup](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Setup)<br>[More Styling](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Styling)|
 | **Coding & p5** |[Intro to p5- Basic Shapes](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt)<br>[Complex Shapes and Color](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Color)<br>[Variables and Interactivity](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Interactivity)<br>[Adding Images](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Images)<br>[Make Your Code Project a Website!](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_GitHub)|
+| **Projection Mapping** | Coming Soon! |
+| **Augmented Reality** | Coming Soon! |
+| **Arduino with Processing** | Coming Soon! |
