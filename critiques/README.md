@@ -6,6 +6,9 @@
 
 ![DIGITAL MEDIA ART](images/gradient_5.png)
 
+# Gallery 107
+
+
 # Critiques
 Critiques are not optional! They are an important part of your participation grade.
 
