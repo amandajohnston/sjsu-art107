@@ -1,9 +1,9 @@
 
 # **INTRO TO VIDEO ART**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 2019](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Lectures](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures)
+[<Back to Lectures](https://carriehott.github.io/sjsu-art107/lectures)
 
 ## Intro to Video Art
 <br>

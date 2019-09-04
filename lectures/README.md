@@ -16,10 +16,10 @@ Lectures are updated after in-class lectures are given. This page is not a subst
 |![new media art](TaeyoonChoi_Care.png) |  **[New Media Art & Systems](https://docs.google.com/presentation/d/1mWILoiB9X-aAfptoJjkoWr__gMcCZVDqyRPpYRm4AfI/edit?usp=sharing)**|
 | ------------------------------------------------------- |
 | ![new media art](NewMediaArt.png) |**More Art Below- This work may or may not be presented in class.** |
-| ![new media art](NewMediaArt.png) |**[Intro to New Media Art](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/Intro_NewMediaArt/)** |
-| ![new media art](GlitchArt.png)|**[Glitch Art](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/glitch/)**|
-| ![new media art](CompositeArt.png) |**[Composite Art](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/Composite/)** |
-|![new media art](SoundArt.png) | **[Sound Art](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/Sound_Art/)**|
-|![new media art](VideoArt.png)| **[Video Art](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/Intro_VideoArt/)** |
-|![net art](Net_Art.png) |[**The Internet**](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/Intro_HTML_CSS/) <br> [**Net Art**](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/Net_Art/)|
-|![code art](InteractiveArt.png)|[**Code as Art**](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures/Interactive_Art/)|
+| ![new media art](NewMediaArt.png) |**[Intro to New Media Art](https://carriehott.github.io/sjsu-art107/lectures/Intro_NewMediaArt/)** |
+| ![new media art](GlitchArt.png)|**[Glitch Art](https://carriehott.github.io/sjsu-art107/lectures/glitch/)**|
+| ![new media art](CompositeArt.png) |**[Composite Art](https://carriehott.github.io/sjsu-art107/lectures/Composite/)** |
+|![new media art](SoundArt.png) | **[Sound Art](https://carriehott.github.io/sjsu-art107/lectures/Sound_Art/)**|
+|![new media art](VideoArt.png)| **[Video Art](https://carriehott.github.io/sjsu-art107/lectures/Intro_VideoArt/)** |
+|![net art](Net_Art.png) |[**The Internet**](https://carriehott.github.io/sjsu-art107/lectures/Intro_HTML_CSS/) <br> [**Net Art**](https://carriehott.github.io/sjsu-art107/lectures/Net_Art/)|
+|![code art](InteractiveArt.png)|[**Code as Art**](https://carriehott.github.io/sjsu-art107/lectures/Interactive_Art/)|
