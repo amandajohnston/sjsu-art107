@@ -47,3 +47,8 @@
 
 [Jasmine Zamora- Projection Mapping](https://docs.google.com/presentation/d/1zWfWO9DE_mHuIZeS3gd6_OtFztptRIkCTQOrBe4E0X0/edit?usp=sharing)
 
+[Bryant Baker- Emotions](https://docs.google.com/presentation/d/1yRh3D86-oO2x8jXl0EC5xCie9DgLKaF-Rjjbh18fk7Q/edit#slide=id.p)
+
+[Hector Espinoza Flores- Electric Car](https://docs.google.com/presentation/d/1JjUldM1k-nGMDanEAcCPiHu2rAloz6ZOxhC6uJ3sjTY/edit#slide=id.p)
+
+[Thanh Truong- UX Design Systems](https://docs.google.com/presentation/d/17Q2zw6PdXfGAGPPWIUoSbWSuGyidjpddc3foytlccCo/edit?usp=sharing)
