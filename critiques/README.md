@@ -8,6 +8,10 @@
 
 # Gallery 107
 
+[Exquisite Systems](https://carriehott.github.io/sjsu-art107/critiques/Gallery 107/exquisite-systems)
+
+[Project Presentatiions](https://carriehott.github.io/sjsu-art107/critiques/Gallery 107/project-presentations)
+
 
 # Critiques
 Critiques are not optional! They are an important part of your participation grade.
