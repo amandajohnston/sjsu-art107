@@ -1,15 +1,15 @@
 # **INTRO TO NEW MEDIA ART**
 
-### **++[SJSU Art Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art Spring 2019](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Lectures](https://carriehott.github.io/SJSU-Art74-Sp2019/lectures)
+[<Back to Lectures](https://carriehott.github.io/sjsu-art107/lectures)
 
 #### >Introductory lecture on New Media Art
 #### ->Corresponding Readings:
 
-* [Chapter 1: Digital Technologies as a Tool from _Digital Art_ by Christine Paul](https://carriehott.github.io/SJSU-Art74-Sp2019/readings/DigitalArt_ChristinePaul_Ch1.pdf)
+* [Chapter 1: Digital Technologies as a Tool from _Digital Art_ by Christine Paul](https://carriehott.github.io/sjsu-art107/readings/DigitalArt_ChristinePaul_Ch1.pdf)
 
-* [Art in the Age of Digital Distribution by Mark Tribe](https://carriehott.github.io/SJSU-Art74-Sp2019/readings/Tribe_NewMediaArt.pdf) (from [New Media Art](https://books.google.com/books/about/New_Media_Art.html?id=8IaZQgAACAAJ))
+* [Art in the Age of Digital Distribution by Mark Tribe](https://carriehott.github.io/sjsu-art107/readings/Tribe_NewMediaArt.pdf) (from [New Media Art](https://books.google.com/books/about/New_Media_Art.html?id=8IaZQgAACAAJ))
 <br>
 
 ![New Media Art](images/NewMediaArt_Lecture.002.jpeg)
