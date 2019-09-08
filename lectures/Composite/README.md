@@ -1,6 +1,6 @@
 # **COMPOSITE ART**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/sjsu-art107/)++**
+### **++[SJSU Art107 Fall 2019](https://carriehott.github.io/sjsu-art107/)++**
 
 [<Back to Lectures](https://carriehott.github.io/sjsu-art107/lectures)
 

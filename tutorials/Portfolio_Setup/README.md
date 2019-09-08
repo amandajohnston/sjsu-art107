@@ -1,16 +1,16 @@
 # **PORTFOLIO WEBSITE SETUP TUTORIAL**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 Fall 2019](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)
 
 
 #### **Related Pages:**
 * [GitHub and Atom Set Up
-](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Github_Atom_Setup/)
-* [HTML/CSS Overview ](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/HTML_CSS/)
-* [Portfolio Styling](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Styling)
-* [Portfolio Website Content & Writing](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Content/)
+](https://carriehott.github.io/sjsu-art107/tutorials/Github_Atom_Setup/)
+* [HTML/CSS Overview ](https://carriehott.github.io/sjsu-art107/tutorials/HTML_CSS/)
+* [Portfolio Styling](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Styling)
+* [Portfolio Website Content & Writing](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Content/)
 <br>
 
 
@@ -285,6 +285,6 @@ Pushing updates live is a 3 step process:
 ![Live](images/PortfolioPage_4.png)
 <br>
 
-## Next Step- [Add Style](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Styling/) or [Add Content](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Content/)!
+## Next Step- [Add Style](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Styling/) or [Add Content](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Content/)!
 
-# [Back to Top](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Setup/)
+# [Back to Top](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Setup/)

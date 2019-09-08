@@ -1,8 +1,8 @@
 # **INRO TO ILLUSTRATOR**
 
-### **++[SJSU Art 74 Spring 2019 Home Page](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 Fall 2019 Home Page](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)
 
 **More Resources** <br>
 [Lynda.com Photoshop Essentials Tutorial](https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-Essential-Training/628695-2.html?srchtrk=index%3a4%0alinktypeid%3a2%0aq%3aadobe+illustrator%0apage%3a1%0as%3arelevance%0asa%3atrue%0aproducttypeid%3a2 ) (use SJSU Library card for free access)<br>

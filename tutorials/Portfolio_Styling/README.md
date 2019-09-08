@@ -1,13 +1,13 @@
 # **PORTFOLIO WEBSITE STYLING GUIDE**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 Fall 2019](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)
 
 #### **Related Pages:**
-* [HTML/CSS Overview ](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/HTML_CSS_Overview)
-* [Portfolio Website Setup](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Setup)
-* [Portfolio Website Content & Writing](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Writing)
+* [HTML/CSS Overview ](https://carriehott.github.io/sjsu-art107/tutorials/HTML_CSS_Overview)
+* [Portfolio Website Setup](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Setup)
+* [Portfolio Website Content & Writing](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Writing)
 <br>
 
 
@@ -24,7 +24,7 @@
 
 
 # What is this page for
-This page provides basic steps to further style your portfolio website beyond the basic setup. **It is up to you whether you continue with these additions- it is not required.** You can use what you would like. Art websites are as individual as artwork, so it is up to you how your website looks. However, there are some basic functions here you may find useful. If you are looking for a guide to a layout that is not here, check the resources section on the [HTML/CSS page](https://carriehott.github.io/SJSU_Art74/tutorials/HTML_CSS/) for other places to find styling code.
+This page provides basic steps to further style your portfolio website beyond the basic setup. **It is up to you whether you continue with these additions- it is not required.** You can use what you would like. Art websites are as individual as artwork, so it is up to you how your website looks. However, there are some basic functions here you may find useful. If you are looking for a guide to a layout that is not here, check the resources section on the [HTML/CSS page](https://carriehott.github.io/sjsu-art107/tutorials/HTML_CSS/) for other places to find styling code.
 
 # Adjusting Color and Hex Codes
 ### **Open your main.css page if it is not yet. We are going to make _minor_ adjustments. Reminder: Be Careful and move slowly in CSS!**
@@ -195,4 +195,4 @@ In addition to the <title> tag, which shows up in the browser tab, you can also 
 
 
 
-# [Back To Top](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Styling/)
+# [Back To Top](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Styling/)

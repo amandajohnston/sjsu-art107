@@ -1,13 +1,13 @@
 # **PORTFOLIO CONTENT PREP GUIDE**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 Fall 2019](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)
 
 #### **Related Pages:**
-* [HTML/CSS Overview ](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/HTML_CSS_Overview)
-* [Portfolio Website Setup](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Buildout)
-* [Portfolio Website Styling](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Portfolio_Styling)
+* [HTML/CSS Overview ](https://carriehott.github.io/sjsu-art107/tutorials/HTML_CSS_Overview)
+* [Portfolio Website Setup](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Buildout)
+* [Portfolio Website Styling](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Styling)
 <br>
 
 

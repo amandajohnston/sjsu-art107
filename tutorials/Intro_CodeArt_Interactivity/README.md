@@ -1,15 +1,15 @@
 # **INTRO TO P5 & CODING- VARIABLES & INTERACTIVITY!**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 Fall 2019](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)
 
 #### **Related Pages:**
-* [Interactive Art Lecture](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Interactive_Art)
-* [p5 Drawing Basics Tutorial](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt/)
-* [p5- Complex Shapes and Color](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Color)
-* [p5- Adding Images](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Images)
-* [p5- Put on GitHub](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_GitHub)
+* [Interactive Art Lecture](https://carriehott.github.io/sjsu-art107/tutorials/Interactive_Art)
+* [p5 Drawing Basics Tutorial](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt/)
+* [p5- Complex Shapes and Color](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt_Color)
+* [p5- Adding Images](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt_Images)
+* [p5- Put on GitHub](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt_GitHub)
 
 #### **Other Resources:**
 * [p5js.org](https://p5js.org/)

@@ -1,6 +1,6 @@
 # **INTRO TO THE INTERNET AND WEB**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/sjsu-art107/)++**
+### **++[SJSU Art 107 Fall 2019](https://carriehott.github.io/sjsu-art107/)++**
 
 [<Back to Lectures](https://carriehott.github.io/sjsu-art107/lectures)
 

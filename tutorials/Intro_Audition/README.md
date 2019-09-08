@@ -1,8 +1,8 @@
 # **SOUND ART AUDITION TUTORIAL**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 Fall 2019](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)
 
 **Intro to Audition**<br>
 This tutorial reviews basics covered in class. For more Audition instruction, use your SJSU library card to access **[this Lynda.com tutorial](https://www.lynda.com/Audition-tutorials/Audition-CC-2019-Essential-Training/779764-2.html)**.

@@ -7,10 +7,16 @@
 # Gallery 107
 ## Exquisite Systems
 
-[System 1](Art107_ExquisiteSystems-p1.jpg)
-[System 2](Art107_ExquisiteSystems-p2.jpg)
-[System 3](Art107_ExquisiteSystems-p3.jpg)
-[System 4](Art107_ExquisiteSystems-p4.jpg)
-[System 5](Art107_ExquisiteSystems-p5.jpg)
-[System 6](Art107_ExquisiteSystems-p6.jpg)
-[System 7](Art107_ExquisiteSystems-p7.jpg)
+![System 1](Art107_ExquisiteSystems-p1.jpg)
+
+![System 2](Art107_ExquisiteSystems-p2.jpg)
+
+![System 3](Art107_ExquisiteSystems-p3.jpg)
+
+![System 4](Art107_ExquisiteSystems-p4.jpg)
+
+![System 5](Art107_ExquisiteSystems-p5.jpg)
+
+![System 6](Art107_ExquisiteSystems-p6.jpg)
+
+![System 7](Art107_ExquisiteSystems-p7.jpg)

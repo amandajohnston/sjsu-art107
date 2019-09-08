@@ -1,8 +1,8 @@
 # **INRO TO PHOTOSHOP**
 
-### **++[SJSU Art 74 Spring 2019 Home Page](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 Fall 2019 Home Page](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)
 
 **On This Page**
 * [Opening Images](#opening-images)

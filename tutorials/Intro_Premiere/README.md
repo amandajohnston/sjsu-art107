@@ -1,9 +1,9 @@
 
 # **INTRO TO PREMIERE PRO- VIDEO EDITING TUTORIAL**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
+### **++[SJSU Art 107 Fall 2019](https://carriehott.github.io/sjsu-art107/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
+[<Back to Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)
 
 **Intro to Premiere Pro**<br>
 This tutorial reviews basics covered in class. For more Premiere Pro instruction, use your SJSU library card to access **[this Premiere Pro 2019 Lynda.com tutorial](https://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-2019-Essential-Training-Basics/758639-2.html)**.
