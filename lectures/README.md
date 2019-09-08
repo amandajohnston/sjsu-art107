@@ -15,8 +15,8 @@ Lectures are updated after in-class lectures are given. This page is not a subst
 
 |![new media art](TaeyoonChoi_Care.png) |**[New Media Art & Systems](https://docs.google.com/presentation/d/1mWILoiB9X-aAfptoJjkoWr__gMcCZVDqyRPpYRm4AfI/edit?usp=sharing)**|
 | ------------------------------------------------------- |
-| ![new media art](NewMediaArt.png) |**[Projection Mapping in New Media Art](https://docs.google.com/presentation/d/1bHbT8JEAdPRr0eBof5S7EjptX2k_fZfBt-E2Nw3CwIg/edit?usp=sharing)** |
-| ![new media art](NewMediaArt.png) |**[Augmented Reality in New Media Art](https://docs.google.com/presentation/d/1aYeYEUPPzzb0RUJNVHDRRFj17bRXL2FdM-rAKSuYPDo/edit?usp=sharing)** |
+| ![new media art](projection.png) |**[Projection Mapping in New Media Art](https://docs.google.com/presentation/d/1bHbT8JEAdPRr0eBof5S7EjptX2k_fZfBt-E2Nw3CwIg/edit?usp=sharing)** |
+| ![new media art](augment.png) |**[Augmented Reality in New Media Art](https://docs.google.com/presentation/d/1aYeYEUPPzzb0RUJNVHDRRFj17bRXL2FdM-rAKSuYPDo/edit?usp=sharing)** |
 | ![new media art](NewMediaArt.png) |**More Art Below- This work may or may not be presented in class.** |
 | ![new media art](NewMediaArt.png) |**[Intro to New Media Art](https://carriehott.github.io/sjsu-art107/lectures/Intro_NewMediaArt/)** |
 | ![new media art](GlitchArt.png)|**[Glitch Art](https://carriehott.github.io/sjsu-art107/lectures/glitch/)**|
