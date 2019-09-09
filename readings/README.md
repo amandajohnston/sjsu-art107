@@ -88,6 +88,12 @@
 
 [The Guardian- Has dopamine got us hooked on tech?](https://www.theguardian.com/technology/2018/mar/04/has-dopamine-got-us-hooked-on-tech-facebook-apps-addiction)
 
+### GPS
+
+[MIT Technology Review- This Is Your Brain on GPS Navigation](https://www.technologyreview.com/s/603951/this-is-your-brain-on-gps-navigation/)
+
+[Time- How GPS is Messing with Our Minds](https://time.com/4309397/how-gps-is-messing-with-our-minds/)
+
 ### Automation
 
 [WIRED- Self Driving Cars](https://www.wired.com/story/future-of-transportation-self-driving-cars-reality-check/)
