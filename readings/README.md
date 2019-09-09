@@ -11,11 +11,10 @@
 
 #### Reading 1--> [Chapter 1: Introduction to Systems Thinking by Edward Shanken](Shanken_IntroToSystemsThinking.pdf)
 <br>
-
 **More Relevant Readings:**
-#### Introduction of [In Your Computer: or, how I learned to love the art coming through the computer screen, and why you should learn to love it as well](Domenico_Quaranta_In_Your_Computer_Link_Editions_2011.pdf) by [Domenico Quaranta](http://domenicoquaranta.com/shows.html)
-<br>
-#### [Art in the Age of Digital Distribution by Mark Tribe](Tribe_NewMediaArt.pdf) (from [New Media Art](https://books.google.com/books/about/New_Media_Art.html?id=8IaZQgAACAAJ))
+Introduction of [In Your Computer: or, how I learned to love the art coming through the computer screen, and why you should learn to love it as well](Domenico_Quaranta_In_Your_Computer_Link_Editions_2011.pdf) by [Domenico Quaranta](http://domenicoquaranta.com/shows.html)
+
+[Art in the Age of Digital Distribution by Mark Tribe](Tribe_NewMediaArt.pdf) (from [New Media Art](https://books.google.com/books/about/New_Media_Art.html?id=8IaZQgAACAAJ))
 
 # Ongoing Project Reading List (regular updates)
 
@@ -87,6 +86,10 @@
 [Harvard Study- Dopamine, Smartphones & You: A battle for your time](http://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/)
 
 [The Guardian- Has dopamine got us hooked on tech?](https://www.theguardian.com/technology/2018/mar/04/has-dopamine-got-us-hooked-on-tech-facebook-apps-addiction)
+
+### Food Systems 
+
+[Forbes- When It Comes To Food, Technology Is Changing The Game](https://www.forbes.com/sites/daniellegould/2013/07/03/when-it-comes-to-food-technology-is-changing-the-game/#4c4d86ca15e7)
 
 ### GPS
 
