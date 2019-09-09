@@ -53,8 +53,7 @@
 
 [Economist- The world’s most valuable resource is no longer oil, but data](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data)
 
-[WIRED- Data is the new oil of the digital economy]
-(https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/)
+[WIRED- Data is the new oil of the digital economy](https://www.wired.com/insights/2014/07/data-new-oil-digital-economy/)
 
 ### Gaming- Narrative structure, economies, emotional experience
 
@@ -66,8 +65,7 @@
 
 [Emotional Games Awards](http://www.emotionalgamesawards.com/)
 
-[Venture Beat- Consider Video Games as Experiences] 
-(https://venturebeat.com/community/2013/01/22/can-we-finally-begin-to-consider-video-games-experiences/)
+[Venture Beat- Consider Video Games as Experiences](https://venturebeat.com/community/2013/01/22/can-we-finally-begin-to-consider-video-games-experiences/)
 
 [NYTimes- In E-Sports, Video Gamers Draw Real Crowds and Big Money](https://www.nytimes.com/2014/08/31/technology/esports-explosion-brings-opportunity-riches-for-video-gamers.html)
 
@@ -80,9 +78,15 @@
 [The Atlantic- People Are Starting to Realize How Voice Assistants Actually Work](https://www.theatlantic.com/technology/archive/2019/08/facebook-paid-contractors-listen-messenger-audio/596143/)
 
 
-### Technology and Biology
+### Technology, Psychology, and Biology
 
 [WIRED- Why Apple Can’t Track Wellness in a vacuum](https://www.wired.com/story/apple-screen-time/)
+
+[Medium- Why You’re Addicted to Social Media — Dopamine, Technology, and Inequality](https://medium.com/@Reece_Robertson/why-youre-addicted-to-social-media-dopamine-technology-inequality-c2cca07ed3ee)
+
+[Harvard Study- Dopamine, Smartphones & You: A battle for your time](http://sitn.hms.harvard.edu/flash/2018/dopamine-smartphones-battle-time/)
+
+[The Guardian- Has dopamine got us hooked on tech?](https://www.theguardian.com/technology/2018/mar/04/has-dopamine-got-us-hooked-on-tech-facebook-apps-addiction)
 
 ### Automation
 
