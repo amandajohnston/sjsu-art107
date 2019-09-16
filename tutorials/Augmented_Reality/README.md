@@ -25,6 +25,8 @@ These are short guides to help you with AR. Note that some were written a year o
 ## A-frame & AR.js:
 * [The AR tutorial on a-frame](https://medium.com/swlh/ar-js-the-simplest-way-to-get-cross-browser-augmented-reality-on-the-web-10cbc721debc)
 
+* [Building A Basic Scene in A-Frame](https://aframe.io/docs/0.9.0/guides/building-a-basic-scene.html)
+
 * [A-frame School](https://aframe.io/aframe-school/)
 
 * [A-frame Documentation](https://aframe.io/docs/0.9.0/introduction/)
