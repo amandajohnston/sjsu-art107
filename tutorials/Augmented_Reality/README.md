@@ -19,6 +19,8 @@ These are short guides to help you with AR. Note that some were written a year o
 
 * [AR.js The Simplest Way to Get Cross Browser AR on the web](https://medium.com/swlh/ar-js-the-simplest-way-to-get-cross-browser-augmented-reality-on-the-web-10cbc721debc)
 
+* [A computer’s understanding of space for Augmented Reality](https://medium.com/hackernoon/a-computers-understanding-of-space-for-augmented-reality-c0fd40a52900)
+
 
 ## A-frame & AR.js:
 * [The AR tutorial on a-frame](https://medium.com/swlh/ar-js-the-simplest-way-to-get-cross-browser-augmented-reality-on-the-web-10cbc721debc)
@@ -31,4 +33,4 @@ These are short guides to help you with AR. Note that some were written a year o
 
 ### AR In-Class Demo
 
-![AR](AR_1.png)
+[![AR](AR_1.png)](https://docs.google.com/presentation/d/1TuGT5AjpLSi-sgJvrnH_5foEBYE_HG37R9qr2HEbCzI/edit?usp=sharing)
