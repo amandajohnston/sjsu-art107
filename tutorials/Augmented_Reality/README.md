@@ -34,3 +34,33 @@ These are short guides to help you with AR. Note that some were written a year o
 ### AR In-Class Demo
 
 [![AR](AR_1.png)](https://docs.google.com/presentation/d/1TuGT5AjpLSi-sgJvrnH_5foEBYE_HG37R9qr2HEbCzI/edit?usp=sharing)
+
+#### **Code to copy to index.html in your AR repository:**
+
+    <!doctype HTML>
+    <html>
+    <!-- This is a link to the latest A-Frame library-->
+    <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+
+    <!-- This is a link to the ar.js library for A-Frame -->
+    <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+
+    <body style='margin : 0px; overflow: hidden;'>
+
+    <a-scene embedded arjs>
+
+    <a-marker-camera preset="hiro">
+
+    <a-cylinder position= "0 0.5 0" material= "color: yellow" height=".5" radius=".25"></a-cylinder>
+
+    <a-text value="Hello Art 107!!" position="-0.5 0 -1" color="#FF16EB" rotation="-45 0 0"></a-text>
+
+    </a-marker>
+
+    <a-entity camera></a-entity>
+
+    </a-scene>
+
+    </body>
+
+    </html>
