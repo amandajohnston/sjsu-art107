@@ -5,9 +5,7 @@
 | **Instructor:** Carrie Hott <br> **Office Location:** Art 311 <br> **Office Hours:** Mondays 11:00am-12:00pm, or by appt <br> **Email:** carolyn.hott@sjsu.edu <br> | [Description](https://carriehott.github.io/sjsu-art107/#course-description) <br>  [Schedule](https://carriehott.github.io/sjsu-art107/schedule) <br> [Assignments](https://carriehott.github.io/sjsu-art107/assignments)<br>  [Expectations](https://carriehott.github.io/sjsu-art107/#course-expectations) <br>[Grading](https://carriehott.github.io/sjsu-art107/grading)<br>| [Gallery](https://carriehott.github.io/sjsu-art107/critiques)<br> [Lectures](https://carriehott.github.io/sjsu-art107/lectures)<br> [Readings](https://carriehott.github.io/sjsu-art107/readings) <br> [Tutorials](https://carriehott.github.io/sjsu-art107/tutorials)| [Software](https://carriehott.github.io/sjsu-art107/programs) <br> [Resources](https://carriehott.github.io/sjsu-art107/resources) <br>|
 
 
-![October](october.png)
-![November](november.png)
-![December](december.png)
+![new media art](projection.png) 
 
 
 # Course Schedule
