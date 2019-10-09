@@ -9,6 +9,7 @@
 ![November](november.png)
 ![December](december.png)
 
+
 # Course Schedule
 _Note: This schedule is subject to change. You will be notified of any changes in a timely manner. Check Canvas and this website regularly for updates._
 
