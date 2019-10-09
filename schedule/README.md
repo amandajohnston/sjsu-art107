@@ -35,8 +35,8 @@ _Note: This schedule is subject to change. You will be notified of any changes i
 10 | Wed 10/23 | Lecture: New Media & Installation Practices <br> In-Class Exercise: Hypothetical Installations | In-Class exercise
 11 | Mon 10/28 | Project Lab/Individual Meetings | Project 2 in progress
 11 | Wed 10/30 | Project Lab/Individual Meetings | Project 2 in progress
-12 | Mon 11/4 | Critique 2- Speed Dating | Project 2 + 3rd project progress
-12 | Wed 11/6 | Critique 2- Exhibition Planning | Project 2 + 3rd project progress
+12 | Mon 11/4 | **Critique 2- Speed Dating** | Project 2 + 3rd project progress
+12 | Wed 11/6 | **Critique 2- Exhibition Planning** | Project 2 + 3rd project progress
 13 | Mon 11/11 | VETERANS DAY- NO CLASS | 
 13 | Wed 11/13 | Visiting Artist: Veronica Graham<br> Artist Talk & Demo- Virtual Reality | 
 14 | Mon 11/18 | Exhibition Installation <br>| Exhibition Project Complete
