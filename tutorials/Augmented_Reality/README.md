@@ -21,6 +21,13 @@ These are short guides to help you with AR. Note that some were written a year o
 
 * [A computer’s understanding of space for Augmented Reality](https://medium.com/hackernoon/a-computers-understanding-of-space-for-augmented-reality-c0fd40a52900)
 
+## Custom Makers
+* [AR.js Marker Training](https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html)
+
+* [How To Create your Own Marker ?](https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105)
+
+* [AR.js — The Simplest Way to get Cross-Browser Augmented Reality on the Web](https://medium.com/swlh/ar-js-the-simplest-way-to-get-cross-browser-augmented-reality-on-the-web-10cbc721debc)
+
 
 ## A-frame & AR.js:
 * [The AR tutorial on a-frame](https://medium.com/swlh/ar-js-the-simplest-way-to-get-cross-browser-augmented-reality-on-the-web-10cbc721debc)
@@ -45,7 +52,7 @@ These are short guides to help you with AR. Note that some were written a year o
     <script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
 
     <!-- This is a link to the ar.js library for A-Frame -->
-    <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+    <script src="https://raw.githack.com/jeromeetienne/AR.js/2.0.1/aframe/build/aframe-ar.js"></script>
 
     <body style='margin : 0px; overflow: hidden;'>
 
