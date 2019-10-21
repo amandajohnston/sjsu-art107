@@ -15,16 +15,10 @@ This tutorial page is updated as tutorials are given to help remind students as 
 
 |   SUBJECT  | TUTORIALS  |
 | ------------------------------------------------------- |
-| **General** |[Computer Setup](https://carriehott.github.io/sjsu-art107/tutorials/Computer_Setup) <br> [Creative Commons](https://carriehott.github.io/sjsu-art107/tutorials/Creative_Commons)|
-| **Photoshop & Illustrator** |[Raster and Vector files](https://carriehott.github.io/sjsu-art107/tutorials/Raster_Vector) <br> [Intro to Photoshop](https://carriehott.github.io/sjsu-art107/tutorials/Intro_Photoshop) <br> [Intro to Illustrator](https://carriehott.github.io/sjsu-art107/tutorials/Intro_Illustrator) |
-| **Glitch Art** |[Glitch Art](https://carriehott.github.io/sjsu-art107/tutorials/Glitch_Art) <br> |
-| **Composite Art** | [Composite Art](https://carriehott.github.io/sjsu-art107/tutorials/Composite_Art) |
+| **General** |[Computer Setup](https://carriehott.github.io/sjsu-art107/tutorials/Computer_Setup) <br> [Creative Commons](https://carriehott.github.io/sjsu-art107/tutorials/Creative_Commons) |
 | **Sound Art** | [Intro to Audacity](https://carriehott.github.io/sjsu-art107tutorials/Sound_Art)<br>[Intro to Audition](https://carriehott.github.io/sjsu-art107/tutorials/Intro_Audition)|
 | **Video Art** | [Intro to Premiere Pro](https://carriehott.github.io/sjsu-art107/tutorials/Intro_Premiere)<br> [How to Make GIFs](https://carriehott.github.io/sjsu-art107tutorials/Gifs)|
-| **Intro Website Development**|[Intro to Web Development](https://carriehott.github.io/sjsu-art107/tutorials/Intro_Web)<br>[HTML & CSS Resource Page](https://carriehott.github.io/sjsu-art107/tutorials/HTML_CSS)<br>[GitHub & Atom Setup](https://carriehott.github.io/sjsu-art107/tutorials/Github_Atom_Setup)|
-| **Net Art** | [Set Up Group GitHub Repository](https://carriehott.github.io/sjsu-art107/tutorials/Github_Atom_Setup/#create-a-collaborative-repository)<br> [Net Art Tips and Tricks](https://carriehott.github.io/sjsu-art107/tutorials/HTML_CSS/#tips-and-tricks-and-bells-and-whistles) |
-| **Portfolio Website** | [Content Preparation](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Content)<br>[Website Setup](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Setup)<br>[More Styling](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Styling)|
-| **Coding & p5** |[Intro to p5- Basic Shapes](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt)<br>[Complex Shapes and Color](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt_Color)<br>[Variables and Interactivity](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt_Interactivity)<br>[Adding Images](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt_Images)<br>[Make Your Code Project a Website!](https://carriehott.github.io/sjsu-art107/tutorials/Intro_CodeArt_GitHub)|
+| **Intro Website Development**|[Intro to Web Development](https://carriehott.github.io/sjsu-art107/tutorials/Intro_Web)<br>[HTML & CSS Resource Page](https://carriehott.github.io/sjsu-art107/tutorials/HTML_CSS)<br>[GitHub & Atom Setup](https://carriehott.github.io/sjsu-art107/tutorials/Github_Atom_Setup)<br> [Net Art Tips and Tricks](https://carriehott.github.io/sjsu-art107/tutorials/HTML_CSS/#tips-and-tricks-and-bells-and-whistles)|
+| **Portfolio Website** | [Portfolio Site Resource Page]()<br> [Content Preparation](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Content)<br>[Website Setup](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Setup)<br>[More Styling](https://carriehott.github.io/sjsu-art107/tutorials/Portfolio_Styling)|
 | **Projection Mapping** | [Resources & Mapmap Tour](https://carriehott.github.io/sjsu-art107/tutorials/Projection_Mapping)|
 | **Augmented Reality** | [Resources & AR Intro](https://carriehott.github.io/sjsu-art107/tutorials/Augmented_Reality) |
-| **Arduino with Processing** | Coming Soon! |

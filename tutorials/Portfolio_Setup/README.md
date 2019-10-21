@@ -15,41 +15,34 @@
 
 
 
-<br>
-
-#### On this page:
-
-1. [Artist Websites](#artist-websites)
-2. [Setup Your Folder](#setup-your-folder)
-3. [Create Your Homepage INDEX.HTML](#create-your-homepage-index.html)
-3. [Create Your CSS Page](#create-your-CSS-page)
-4. [Create Your Artist Statement Page](#create-your-artist-statement-page)
-5. [Link Your Artist Statement Page](#link-to-your-artist-statement-page)
-6. [Setup The Portfolio Page](#setup-the-portfolio-page)
-7. [Adding Portfolio Items](#adding-portfolio-items)
-8. [Copy the Menu to Each Page](#copy-the-menu-to-each-page)
-9. [Add Images and Media to the Portfolio Page](#add-images-and-media-to-the-portfolio-page)
-10. [Developer Tools](#developer-tools)
-11. [Pushing Live Reminder](#pushing-live-reminder)
+# Example Artist Websites
 
 
-# Artist Websites
-
-**Note:** Your web portfolio can be as basic or as complex as you would like. You can stick to these basics, or build out your portfolio further using what you have learned, develop on your own. I DO RECOMMEND keeping it simple. As you have learned CSS can get sloppy _fast_ when copying and pasting from many sources, and it takes a long time to make a complex website. Stick with it and you will have this skill forever.
-
-[![Portfolio Setup](images/PortfolioWebsites.009.jpeg)](https://carriehott.github.io)
-
-![Portfolio Setup](images/PortfolioWebsites.008.jpeg)
-
+* [Lauren McCarthy](https://lauren-mccarthy.com/)
+* [Jillian Mayer](https://www.jillianmayer.net/)
 * [Sofia Cordova](https://www.sofiacordova.com/)
 * [Cory Arcangel](http://www.coryarcangel.com/)
 * [Jenny O'Dell](http://www.jennyodell.com/)
 * [Lisa Rybovich Cralle](https://www.lisarcralle.com/)
+* [Evan Roth](http://www.evan-roth.com/shows/)
 * [Kate Rhoades](http://krhoades.com/)
 * [Martha Colburn](http://marthacolburn.com/)
 * [Rafael Lozano-Hemmer](http://www.lozano-hemmer.com/)
 
-# Setup Your Folder
+# Setup and Customize a WYSIWYG Site- Some Options: 
+
+|   COMPANY  | DETAILS  |
+| ----------------------------------------------- 
+|[**Carbonmade**](https://carbonmade.com/)|One Template, Free for up to 5 projects | 
+|[**Adobe Portfolio**](https://portfolio.adobe.com/?sdid=F89JZTL9&mv=search&ef_id=EAIaIQobChMIweeYjsSh4AIVBrbACh3NWgcBEAAYASAAEgL4afD_BwE:G:s&s_kwcid=AL!3085!3!303791893083!e!!g!!adobe%20portfolio) | Free with Creative Cloud Membership| 
+|[**Format**](https://www.format.com/) | Several templates, starts at $6 / month|
+| [**Xhbtr**](https://xhbtr.com/) | Robust and geared towards artists—a lot of templates, functions, and customization, starts at $15/ month |
+|[**Cargo Collective**](https://cargo.site/) | Also robust and geared toward artists—a lot of templates, functions, and customization, starts at $13 / month |
+| [**Other People's Pixels**](https://otherpeoplespixels.com/) | Also robust and geared toward artists—a lot of templates, functions, and customization, starts at $16 / month | 
+| [**Wix**](https://www.wix.com/) | Don't know much but offers plans to buy custom domain names + first year free, starts at $11 / month |
+| [**Squarespace**](https://www.squarespace.com/) | Most robust—a lot of templates, functions, and customization, starts at $12 / month |
+
+# Coding from Scratch- Setup A Basic Site
 
 ![Portfolio Setup](images/PortfolioWebsites.010.jpeg)
 
